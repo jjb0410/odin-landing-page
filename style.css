@@ -35,12 +35,19 @@ a {
     flex: 1;
     background-color: #1f2937;
     color: #e5e7eb;
+    padding: 100px 200px;
+    gap: 50px;
 }
 
 .mainh1 {
     font-size: 48px;
     color: #f9faf8;
     font-weight:bolder;
+    margin: 0px;
+}
+
+.mainpara {
+    margin: 10px 0px;
 }
 
 .left {
