@@ -33,6 +33,14 @@ a {
 .main {
     display: flex;
     flex: 1;
+    background-color: #1f2937;
+    color: #e5e7eb;
+}
+
+.mainh1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight:bolder;
 }
 
 .left {
@@ -41,4 +49,5 @@ a {
 
 .right {
     width: 50%;
+    background-color: darkgray;
 }
