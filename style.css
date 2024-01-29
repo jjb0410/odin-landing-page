@@ -113,3 +113,17 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+.quotetext {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+    margin: 0px;
+}
+
+.quoteattribution {
+    color: #1f2937;
+    font-weight: bold;
+    font-size: 18px;
+    align-self: flex-end;
+}
