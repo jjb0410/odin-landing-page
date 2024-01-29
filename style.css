@@ -69,6 +69,10 @@ a {
     padding: 10px 30px;
 }
 
+.info {
+    margin-bottom: 200px;
+}
+
 .infoboxgroup {
     display: flex;
     justify-content: center;
@@ -91,4 +95,5 @@ a {
 
 .infoh2 {
     text-align: center;
+    margin: 40px;
 }
