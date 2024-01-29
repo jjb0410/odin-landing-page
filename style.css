@@ -130,3 +130,18 @@ a {
     font-size: 18px;
     align-self: flex-end;
 }
+
+.calltoaction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calltoactionbox {
+    display: flex;
+}
+
+.callright {
+    display: flex;
+    align-items: center;
+}
