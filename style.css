@@ -84,16 +84,25 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 12px;
     text-align: center;
     width: 200px;
+    font-size: 18px;
+    color: #1f2937;
 }
 
 .infobox > img {
     height: 200px;
     width: 200px;
+    border-color: #3882f6;
+    border-style: solid;
+    border-radius: 16px;
 }
 
 .infoh2 {
     text-align: center;
     margin: 40px;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bolder;
 }
