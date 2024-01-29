@@ -106,3 +106,10 @@ a {
     color: #1f2937;
     font-weight: bolder;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
