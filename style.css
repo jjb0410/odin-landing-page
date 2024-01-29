@@ -68,3 +68,27 @@ a {
     font-size: 18px;
     padding: 10px 30px;
 }
+
+.infoboxgroup {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.infobox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+}
+
+.infobox > img {
+    height: 200px;
+    width: 200px;
+}
+
+.infoh2 {
+    text-align: center;
+}
