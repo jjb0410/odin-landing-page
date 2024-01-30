@@ -135,12 +135,19 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 100px 50px;
 }
 
 .calltoactionbox {
     display: flex;
     background-color: #3882f6;
     border-radius: 4px;
+    padding: 50px 200px;
+    width: 50%;
+}
+
+.callleft {
+    margin-right: 20%;
 }
 
 .callright {
@@ -161,6 +168,7 @@ a {
 }
 
 .signupbutton2 {
+    flex-shrink: 0;
     color: #f9faf8;
     background-color: #3882f6;
     border-style: solid;
