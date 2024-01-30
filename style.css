@@ -140,6 +140,7 @@ a {
 
 .calltoactionbox {
     display: flex;
+    justify-content: space-between;
     background-color: #3882f6;
     border-radius: 4px;
     padding: 50px 200px;
@@ -153,6 +154,7 @@ a {
 .callright {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .calltoactionh4 {
